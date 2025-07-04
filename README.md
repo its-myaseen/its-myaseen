@@ -5,7 +5,7 @@ With hands-on experience in React.js, Node.js, Express.js, and MongoDB, I specia
 
 Over time, I’ve also developed a strong passion for AI-powered tools. One of my proudest projects is an open-source AI Code Reviewer, which leverages OpenAI’s GPT to analyze and review code intelligently — helping developers write better, more efficient code. This project is a reflection of my growing interest in the intersection of artificial intelligence and software development.
 
-# 💼 What I Do
+## 💼 What I Do
 I provide end-to-end web development services, including:
 ⚙️ Full-Stack Web Development (MERN stack)
 🛍️ E-commerce Website Development
@@ -17,7 +17,7 @@ I provide end-to-end web development services, including:
 
 Whether you’re a startup looking to build your MVP, a business aiming to scale your web presence, or a fellow developer seeking collaboration on an open-source project — I’d love to work with you.
 
-# 🌍 Open to Work
+## 🌍 Open to Work
 - I'm currently open to freelance, remote, or full-time opportunities in:
 - Web development
 - Software engineering
